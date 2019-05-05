@@ -1923,6 +1923,9 @@
   display: -ms-flexbox;
   display: flex;
   height: 53px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
